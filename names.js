@@ -1,4 +1,3 @@
-<script>
 var display = document.getElementById("display");  
 var data = [
   { 
@@ -71,4 +70,3 @@ function render(){
   }  
 }
 render();
-</script>
