@@ -2,7 +2,7 @@ var display = document.getElementById("display");
 var data = [
   { 
     descr: "Generate a New Character Backstory", 
-    list: ['Personality Traits: My timidity often causes'],
+    list: ['Personality Traits -- My timidity often causes'],
     altlist: ['Akta', 'Anakis', 'Bryseis', 'Criella', 'Damaia', 'Ea', 'Kallista', 'Lerissa', 'Makaria', 'Nemeia', 'Orianna', 'Phelaia', 'Rieta'] 
   }
 ];
